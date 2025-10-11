@@ -1,0 +1,2 @@
+plugins:
+  - jekyll-redirect-from  # 启用官方重定向插件，实现服务器端301
